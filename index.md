@@ -10,7 +10,6 @@ Will this embed work?
 
 [![Blinking LEDs](http://img.youtube.com/vi/XAMVzS13HY0/0.jpg)](http://www.youtube.com/watch?v=XAMVzS13HY0 "Blinking LEDs")
 
-<divclass="video-container> <iframe width="560" height="315" src="https://www.youtube.com/embed/1FaT7TCZarg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1FaT7TCZarg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
